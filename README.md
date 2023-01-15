@@ -1,3 +1,3 @@
-# Simple Express
+# Static Personal Page
 
-A simple express app for demos and testing deployment pipelines
+Just a simple static personal web page.
